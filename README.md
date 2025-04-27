@@ -30,15 +30,16 @@ Back-to-Top Button — Quick navigation for better UX.
 
 ## Project Structure
 
-├── index.html         # Main HTML structure (includes embedded CSS & JS)
+├── index.html   # Main HTML structure
 
-├── style.css          # Suggested future separation
+├── style.css    # CSS styles
 
-├── script.js          # Suggested future separation
+├── script.js    # JavaScript functionalities
 
-├── images/            # Placeholder images
+├── images/      # Placeholder assets
 
-└── README.md          # This file
+└── README.md    # This file
+
 
 ## Getting Started
 Clone the Repository on git bash:
@@ -47,31 +48,32 @@ git clone https://github.com/GDIAMEL/UI-PORTFOLIO.git
 
 Open index.html in a browser.
 
+
 ## Team Members
 
 Proudly crafted by:
 
-Edwin Muigai
+**Edwin Muigai**
 
-Dennis Muia
+**Dennis Muia**
 
-Ivy Butichi
+**Ivy Butichi**
 
-Martin Lusasi
+**Martin Lusasi**
 
-Patience Ibitokun
+**Patience Ibitokun**
 
-Brian Ngumi Njenga
+**Brian Ngumi Njenga**
 
-Abdullateef Bashorun
+**Abdullateef Bashorun**
 
-Anthony Nosiere
+**Anthony Nosiere**
 
-Chidiebere Eme
+**Chidiebere Eme**
 
-Ju-Nine Ngu Cho
+**Ju-Nine Ngu Cho**
 
-Emmanuel Kimaro 
+**Emmanuel Kimaro**
 
 
 ## License
@@ -90,3 +92,5 @@ In a world obsessed with quick fixes and overnight trends, Develevate stands as 
 True quality is timeless.
 
 Build boldly. Build beautifully. Build properly.
+
+
