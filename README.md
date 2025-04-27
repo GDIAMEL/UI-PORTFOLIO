@@ -1,6 +1,6 @@
 # Develevate - UI Portfolio Website
 # Overview
-Develevate is a clean, modern, and responsive UI/UX portfolio website built with traditional best practices — using HTML5, CSS3, and Vanilla JavaScript.
+Develevate is a clean, modern, and responsive UI/UX portfolio website built using traditional best practices, HTML, CSS, and JavaScript.
 It represents a commitment to craftsmanship, showcasing the work of a passionate team focused on digital excellence.
 
 ## Built With
@@ -40,18 +40,14 @@ Edit
 └── README.md          # This file
 
 ## Getting Started
-Clone the Repository:
+Clone the Repository on git bash:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/develevate-portfolio.git
+git clone https://github.com/GDIAMEL/UI-PORTFOLIO.git
+
 Open index.html in a browser.
 
-That's it.
-No npm installs. No Webpack configs. No "it works on my machine" excuses.
-
 ## Team Members
+
 Proudly crafted by:
 
 Edwin Muigai
@@ -74,7 +70,7 @@ Chidiebere Eme
 
 Ju-Nine Ngu Cho
 
-Emmanuel Kimaro (Team Member & Contributor)
+Emmanuel Kimaro 
 
 
 ## License
@@ -85,7 +81,7 @@ This project is licensed under the MIT License — meaning you're free to use, c
 ## Contributions
 
 We welcome improvements!
-If you have a better idea, a bug fix, or want to help clean up the code — fork the repository, make your changes, and submit a pull request.
+If you have a better idea, a bug fix, or want to help clean up the code  fork the repository, make your changes, and submit a pull request.
 (But keep it classy: clean code, meaningful commits, and respect the project’s traditional style.)
 
 ## Final Thoughts
