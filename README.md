@@ -30,13 +30,14 @@ Back-to-Top Button — Quick navigation for better UX.
 
 ## Project Structure
 
-graphql
-Copy
-Edit
 ├── index.html         # Main HTML structure (includes embedded CSS & JS)
+
 ├── style.css          # Suggested future separation
+
 ├── script.js          # Suggested future separation
+
 ├── images/            # Placeholder images
+
 └── README.md          # This file
 
 ## Getting Started
