@@ -78,7 +78,7 @@ Proudly crafted by:
 
 ## License
 
-This project is licensed under the MIT License — meaning you're free to use, copy, modify, and distribute it, provided you include a copy of the license.
+This project is licensed under the MIT License meaning you're free to use, copy, modify, and distribute it, provided you include a copy of the license.
 (In other words: use it, don't abuse it.)
 
 ## Contributions
